@@ -1,0 +1,16 @@
+12000	jAnderson	a1111111	
+12002	sParker	sp16400	
+12003	kBarker	kb10540	
+12004	bBaker	bb24356	
+12005	aSmith	as90768	
+12007	aSaudi	as32000	
+12008	mJones	mj89000	
+12009	nHenderson	nh23000	
+12010	bKline	bk12000	
+12011	vCook	b2222222	
+12012	tGonzalez	ta50000	
+12013	sShirazi	ss60000	
+12014	rParamesvaran	rp10000	
+12015	bBelazavich	bb16500	
+12019	jkohat	c3333333	
+12019	jPavey	jp45600	
